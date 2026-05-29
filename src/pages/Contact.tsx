@@ -87,17 +87,17 @@ export function ContactPage() {
           <GlassCard>
             <div className="text-xs uppercase tracking-[0.25em] text-[var(--color-electric-2)] mb-3">Direct channels</div>
             <div className="space-y-3">
-              <a href="https://wa.me/15555555555" className="flex items-center gap-3 p-3 rounded-xl bg-emerald-400/10 border border-emerald-400/20 hover:bg-emerald-400/20 transition-colors">
+              <a href="https://wa.me/917893763917" className="flex items-center gap-3 p-3 rounded-xl bg-emerald-400/10 border border-emerald-400/20 hover:bg-emerald-400/20 transition-colors">
                 <span className="w-9 h-9 rounded-lg bg-emerald-400/20 flex items-center justify-center text-emerald-300">◉</span>
                 <div>
                   <div className="text-white text-sm font-medium">WhatsApp</div>
                   <div className="text-white/55 text-xs">Chat with our studio</div>
                 </div>
               </a>
-              <a href="mailto:studio@diorstudios.com" className="flex items-center gap-3 p-3 rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 transition-colors">
+              <a href="mailto:studio@diordev.fun" className="flex items-center gap-3 p-3 rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 transition-colors">
                 <span className="w-9 h-9 rounded-lg bg-white/10 flex items-center justify-center">✉</span>
                 <div>
-                  <div className="text-white text-sm font-medium">studio@diorstudios.com</div>
+                  <div className="text-white text-sm font-medium">studio@diordev.fun</div>
                   <div className="text-white/55 text-xs">Email our team</div>
                 </div>
               </a>
